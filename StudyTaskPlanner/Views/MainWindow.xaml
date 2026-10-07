@@ -1,0 +1,18 @@
+<Window x:Class="StudyTaskPlanner.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StudyTaskPlanner"
+        Height="450"
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="StudyTaskPlanner"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       Margin="0,0,0,12"/>
+            <TextBlock Text="Пустой учебный проект для практической работы №4."
+                       FontSize="16"/>
+        </StackPanel>
+    </Grid>
+</Window>

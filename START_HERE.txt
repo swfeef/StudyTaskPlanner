@@ -1,0 +1,2 @@
+Откройте StudyTaskPlanner.sln в Visual Studio.
+Файл .gitignore намеренно не добавлен: его создадим по шагам в практической работе №4.
